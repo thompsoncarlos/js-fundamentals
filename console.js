@@ -9,6 +9,5 @@ console.log(myVar);
 // Tratamento de erro!
 console.error('Deu erro!');
 
-// Other methods:
-console.table = visualizar de forma mais organizada informações tabulares.console
+
 
